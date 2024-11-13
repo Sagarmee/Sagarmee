@@ -13,15 +13,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d8YxckR2VurkueRnkbcadxkN2u7ghH5M/view?usp=drive_link](https://drive.google.com/file/d/1d8YxckR2VurkueRnkbcadxkN2u7ghH5M/view?usp=drive_link)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagar-modi-329b37221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-modi-329b37221" height="30" width="40" /></a>
 <a href="https://medium.com/@sagarmodi1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sagarmodi1331" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sagarmodi2411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagarmodi2411" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/22mca036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="22mca036" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagarmodi1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarmodi1331" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sagarmodi1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sagarmodi1331" height="30" width="40" /></a>
